@@ -1,3 +1,4 @@
 # IKR
-any changes
-Some more changes
+Инструкция по запуску: 
+1. Клонировать репозиторий. 
+2. В терминале выполнить команду: docker-compose up --build -d
